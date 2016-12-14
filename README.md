@@ -1,12 +1,12 @@
 # Taller1
 Taller de la clase del 14 de diciembre del 2016
 Integrantes 
-  Benavides Byron
-  Cardenas Mychael 
-  España Bryan
-  Ochoa Valeria
-  Saldaña David
-  Ushcasina Fernanda
+  Benavides Byron =  DaniloBenavides
+  Cardenas Michael = cawi123
+  España Bryan = bret2014
+  Ochoa Valeria = ValeriaOchoa
+  Saldaña David = David1396
+  Ushcasina Fernanda = 2508Fernan
  -------------------------------------------------------- 
 Conclusiones por integrante
   Benavides Byron
